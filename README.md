@@ -7,7 +7,7 @@
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via tonymartoscode@gmail.com to reach me.
 
-  <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/16767624/91843446-09900f00-ec56-11ea-97a6-feef748365a4.gif" />
+  <img align="right" alt="GIF" height="500" width="350" src="https://user-images.githubusercontent.com/16767624/91843446-09900f00-ec56-11ea-97a6-feef748365a4.gif" />
 
 
 **Languages and Tools:**  

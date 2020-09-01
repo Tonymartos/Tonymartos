@@ -1,5 +1,7 @@
 # Hi there! I'm Tony 👋🏻👨🏻‍💻
 
+  <img align="right" alt="GIF" height="350" width="500" src="https://user-images.githubusercontent.com/16767624/91843446-09900f00-ec56-11ea-97a6-feef748365a4.gif" />
+
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently an "Front-End Developer";
@@ -22,6 +24,4 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 ![Tony's github stats](https://github-readme-stats.vercel.app/api?username=tonymartos&show_icons=true&hide_border=true)
-
-  <img align="right" alt="GIF" height="350" width="500" src="https://user-images.githubusercontent.com/16767624/91843446-09900f00-ec56-11ea-97a6-feef748365a4.gif" />
 

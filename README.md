@@ -3,7 +3,7 @@
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently an "Front-End Developer";
-- 🌱 I’m currently learning anything with web development or videogames; 
+- 👾 I’m currently learning anything with web development or videogames; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via tonymartoscode@gmail.com to reach me.
 

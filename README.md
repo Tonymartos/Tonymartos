@@ -5,7 +5,7 @@
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently a "Front-End Developer";
-- 👾 I’m currently learning anything with web development or videogames; 
+- 👾 I’m currently learning anything with web development or games engines; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via tonymartos@protonmail.com to reach me.
 

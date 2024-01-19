@@ -1,7 +1,5 @@
 # Hi there! I'm Tony 
 
-  <img align="right" alt="GIF" height="350" width="500" src="https://user-images.githubusercontent.com/16767624/91843446-09900f00-ec56-11ea-97a6-feef748365a4.gif" />
-
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently work as a "Front-End Developer"

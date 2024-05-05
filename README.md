@@ -1,12 +1,8 @@
-# Hi there! I'm Tony 
-
-**Talking about Personal Stuffs:**
-
+# Hello there! I'm Tony 
 - 👨🏽‍💻 I’m currently work as a "Front-End Developer"
 - 👾 I’m currently learning anything with web development or games engines
 - 💬 Feel free to ask me anything; I'm happy to help.
 - 📫 Please email via tonymartos@protonmail.com to reach me
-
 
 **Languages and Tools:**  
 

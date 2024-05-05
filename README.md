@@ -2,7 +2,7 @@
 - 👨🏽‍💻 I’m currently work as a "Front-End Developer"
 - 👾 I’m currently learning anything with web development or games engines
 - 💬 Feel free to ask me anything; I'm happy to help.
-- 📫 Please email via tonymartos@protonmail.com to reach me
+- 📫 Please send an email to tonymartos@protonmail.com to get in touch with me.
 
 **Languages and Tools:**  
 

@@ -1,7 +1,7 @@
 # Hello there! I'm Tony 
 - 👨🏽‍💻 I’m currently work proffesionaly as a "Front-End Developer".
 - 💬 Feel free to ask me anything; I'm happy to help.
-- 📫 Please send an email to tonymartos@protonmail.com to get in touch with me.
+- 📫 Please send an email to info@tonymartos.com to get in touch with me.
 
 **Languages and Tools:**  
 

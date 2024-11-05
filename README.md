@@ -3,6 +3,9 @@
 - 💬 Feel free to ask me anything; I'm happy to help.
 - 📫 Please send an email to info@tonymartos.com to get in touch with me.
 
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 <p align="center">
   <b>Languages and Tools</b>
 </p>

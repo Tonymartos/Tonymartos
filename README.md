@@ -1,5 +1,6 @@
 # Hello there! I'm Tony 
 - 👨🏽‍💻 I’m currently work proffesionaly as a "Front-End Developer".
+- Hobbyist developing games with Godot and game engines using OpenGL.
 - 💬 Feel free to ask me anything; I'm happy to help.
 - 📫 Please send an email to info@tonymartos.com to get in touch with me.
 

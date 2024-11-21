@@ -5,7 +5,7 @@
 - 📫 Please send an email to info@tonymartos.com to get in touch with me.
 
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0379.gif" width="1920" />
 
 <p align="center">
   <b>Languages and Tools</b>

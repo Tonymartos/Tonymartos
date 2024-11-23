@@ -1,6 +1,6 @@
-# Hello there! I'm Tony <img src="https://github.com/user-attachments/assets/193ce641-8174-4e69-8a3f-1c4222dfbd04" width="26" />
+## tony@arch-linux-desktop:~$ Hello there! I'm Tony <img src="https://github.com/user-attachments/assets/193ce641-8174-4e69-8a3f-1c4222dfbd04" width="26" />
 
-- 👨🏽‍💻 I’m currently work proffesionaly as a "Front-End Developer".
+- 👨🏽‍💻 I’m currently work professionally as a "Front-End Developer".
 - 🕹️👾🖥️ Hobbyist developing games with Godot and exploring game engines using OpenGL.
 - 💬 Feel free to ask me anything; I'm happy to help.
 - 📫 Please send an email to info@tonymartos.com to get in touch with me.

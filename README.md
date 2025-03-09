@@ -3,7 +3,7 @@
 - 👨🏽‍💻 I’m currently work professionally as a "Front-End Developer".
 - 🕹️👾🖥️ Hobbyist developing games with Godot and exploring game engines using OpenGL.
 - 💬 Feel free to ask me anything; I'm happy to help.
-- 📫 Please send an email to info@tonymartos.com to get in touch with me.
+- 📫 Please send an email to tonymartos@protonmail.com to get in touch with me.
 
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0379.gif" width="1920" />

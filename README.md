@@ -1,4 +1,4 @@
-## $\Large{\texttt{ Hello ~there!  I'm ~Tony }}$<img src="https://github.com/user-attachments/assets/193ce641-8174-4e69-8a3f-1c4222dfbd04" width="27" />
+## $\Large{\text{ Hello there!  I'm Tony }}$<img src="https://github.com/user-attachments/assets/193ce641-8174-4e69-8a3f-1c4222dfbd04" width="27" />
 
 - 👨🏽‍💻 I’m currently work professionally as a "Front-End Developer".
 - 🕹️👾🖥️ Hobbyist developing games with Godot and exploring game engines using OpenGL/SDL.
